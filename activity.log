@@ -92,3 +92,5 @@
 2025-04-22 12:21:00 | INFO | repo=2017-course-sys-int-activemq-seminar | action=commit
 2025-07-21 21:28:00 | DEBUG | repo=2017-course-sys-int-activemq-seminar | action=commit
 2025-06-23 07:43:00 | INFO | repo=2017-course-sys-int-activemq-seminar | action=commit
+2025-05-25 07:20:00 | WARN | repo=2017-course-sys-int-activemq-seminar | action=edit | files=2
+2025-05-12 19:44:00 | WARN | repo=2017-course-sys-int-activemq-seminar | action=commit
